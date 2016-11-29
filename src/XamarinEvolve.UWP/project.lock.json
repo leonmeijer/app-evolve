@@ -26047,8 +26047,9 @@
       ]
     },
     "Xamarin.Forms.Maps/2.3.2.127": {
-      "sha512": "pvRKTi9bn+jMTZQqjDpaTIrwtq/Q2RcBUNPzqodF0HdwuI1P9yCrfcIAMmLAk8KokbgBi67rUqcmTpfEtQbj0A==",
+      "sha512": "0dSV+ZCCdEinSw0V76AapyfU9Hd4rn8vLZpFIFraCrd1935O1UhsbeBG8dcnIFzzSxGB+KcgvAO81uUePahB6w==",
       "type": "package",
+      "path": "Xamarin.Forms.Maps/2.3.2.127",
       "files": [
         "Xamarin.Forms.Maps.2.3.2.127.nupkg.sha512",
         "Xamarin.Forms.Maps.nuspec",
