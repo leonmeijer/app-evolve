@@ -7,6 +7,7 @@ using Gcm;
 using WindowsAzure.Messaging;
 using XamarinEvolve.Clients.Portable;
 using Android.Support.V4.App;
+using Gcm.Client;
 
 namespace XamarinEvolve.Droid
 {

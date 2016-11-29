@@ -2,6 +2,7 @@
 using Android.App;
 using Android.Content;
 using Gcm;
+using Gcm.Client;
 using XamarinEvolve.Clients.Portable;
 
 namespace XamarinEvolve.Droid

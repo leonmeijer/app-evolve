@@ -16,6 +16,7 @@ using Android.Runtime;
 using Android.Widget;
 using FormsToolkit;
 using FormsToolkit.Droid;
+using Gcm.Client;
 using Plugin.Permissions;
 using Refractored.XamForms.PullToRefresh.Droid;
 using Xamarin.Forms;
@@ -25,7 +26,6 @@ using XamarinEvolve.Clients.UI;
 using XamarinEvolve.DataObjects;
 using Xamarin.Forms.Platform.Android.AppLinks;
 using Xamarin;
-using Gcm;
 
 namespace XamarinEvolve.Droid
 {
