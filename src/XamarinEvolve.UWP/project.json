@@ -23,14 +23,14 @@
     "Xam.Plugins.Forms.ImageCircle": "1.8.0.5",
     "Xam.Plugins.Messaging": "3.2.1",
     "Xam.Plugins.Settings": "2.5.1",
-    "Xamarin.Forms": "2.3.2.127",
+    "Xamarin.Forms": "2.5.0.122203",
     "Xamarin.Forms.CarouselView": "2.3.0-pre2",
     "Xamarin.Forms.Maps": "2.3.2.127",
     "Xamarin.Insights": "1.12.3",
     "ZXing.Net.Mobile.Forms": "2.1.47"
   },
   "frameworks": {
-    "uap10.0": {}
+    "uap10.0.10240": {}
   },
   "runtimes": {
     "win10-arm": {},
